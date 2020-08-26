@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_86336_testapplic.testtable_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>testtable_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-26 14:07:33</sys_created_on>
+        <sys_id>043e44fe2ff2941048572aa62799b6fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_86336_testapplic.testtable_user</sys_name>
+        <sys_package display_value="Testapplication" source="x_86336_testapplic">d2f401302f7a101048572aa62799b691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testapplication">d2f401302f7a101048572aa62799b691</sys_scope>
+        <sys_update_name>sys_user_role_043e44fe2ff2941048572aa62799b6fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-26 14:07:33</sys_updated_on>
+    </sys_user_role>
+</record_update>
